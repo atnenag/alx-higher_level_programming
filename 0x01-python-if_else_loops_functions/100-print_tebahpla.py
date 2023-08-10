@@ -4,4 +4,4 @@ for i in range(122, 96, -1):
         letter = i
     else:
         letter = i - 32
-    print("{:s}".format(chr(letter)), end=""))
+    print("{:s}".format(chr(letter)), end="")
